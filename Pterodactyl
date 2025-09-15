@@ -102,7 +102,7 @@ while true; do
     read -r choice
     case $choice in
         1) run_remote_script "https://raw.githubusercontent.com/DevrdxDev/Files/refs/heads/main/panel.sh" ;;
-        2) run_remote_script "https://raw.githubusercontent.com/nobita586/Nobita-Hosting/main/cd/wing.sh" ;;
+        2) run_remote_script "https://raw.githubusercontent.com/DevrdxDev/Files/refs/heads/main/wings.sh" ;;
         3) run_remote_script "https://raw.githubusercontent.com/nobita586/Nobita-Hosting/main/cd/up.sh" ;;
         4) run_remote_script "https://raw.githubusercontent.com/nobita586/Nobita-Hosting/main/cd/uninstalll.sh" ;;
         5) run_remote_script "https://raw.githubusercontent.com/nobita586/Nobita-Hosting/main/cd/blueprint.sh" ;;
