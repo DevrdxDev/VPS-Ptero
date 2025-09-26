@@ -28,5 +28,5 @@ sudo systemctl restart xrdp
 VM Machine Command
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/DevrdxDev/VPS-Ptero/refs/heads/main/vm.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/DevrdxDev/VPS-Ptero/refs/heads/main/vm.sh)
 ```
