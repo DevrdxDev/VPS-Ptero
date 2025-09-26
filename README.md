@@ -24,3 +24,8 @@ sudo chown $(whoami):$(whoami) ~/.xsession
 sudo systemctl enable xrdp
 sudo systemctl restart xrdp
 ```
+
+
+```
+bash <(curl -s https://raw.githubusercontent.com/DevrdxDev/VPS-Ptero/refs/heads/main/vm.sh)
+```
