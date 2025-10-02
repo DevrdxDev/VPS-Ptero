@@ -30,3 +30,5 @@ VM Machine Command
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/DevrdxDev/VPS-Ptero/refs/heads/main/vm.sh)
 ```
+
+https://sandbox-42970cbe22f84dc08d9155f9682d2c03-ethereum-3001.prod-sandbox.chainide.com/admin/apikeys
